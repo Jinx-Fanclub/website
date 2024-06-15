@@ -1,0 +1,3 @@
+[submodule ".well-known"]
+	path = .well-known
+	url = git@github.com:Jinx-Fanclub/.well-known.git
